@@ -1,6 +1,6 @@
 # README
 
-***Forked from [Render examples](https://github.com/render-examples/express-hello-world) to create a Node Express app to store VolcanoNFT image***
+***Forked from [Render examples](https://github.com/render-examples/express-hello-world) to create a Node Express app to store VolcanoNFT image metadata***
 
 This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
 
