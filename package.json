@@ -1,9 +1,9 @@
 {
-  "name": "volcano-nft-image",
+  "name": "volcano-nft-metadata",
   "version": "1.0.0",
-  "description": "Express VolcanoNFT image upload on Render Node Express app",
+  "description": "Express VolcanoNFT image metadata upload on Render Node Express app",
   "main": "app.js",
-  "repository": "https://github.com/binghy/volcanoNFT",
+  "repository": "https://github.com/binghy/VolcanoNFT_metadata",
   "author": "Marco Giangolini",
   "license": "MIT",
   "private": false,
