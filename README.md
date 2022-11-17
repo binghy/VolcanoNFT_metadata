@@ -1,17 +1,10 @@
 # README
 
-***Mirrored from [Volcano NFT](https://github.com/binghy/volcanoNFT) to create a Node Express app to store VolcanoNFT image metadata***
+# NOTES
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+***Mirrored from [Volcano NFT](https://github.com/binghy/volcanoNFT) to create a Node Express app and store VolcanoNFT image metadata***
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
-
-## Deployment
-
-See https://render.com/docs/deploy-node-express-app or follow the steps below:
-
-Create a new web service with the following values:
-  * Build Command: `yarn`
-  * Start Command: `node app.js`
-
-That's it! Your web service will be live on your Render URL as soon as the build finishes.
+**Three options to store metadata (source: [freeCodeCamp](https://www.freecodecamp.org/news/how-to-make-an-nft/)):**  
+- Store the information on-chain. In other words, extend your ERC-721 and store the metadata on the blockchain, which can be costly. (***TO DO***)  
+- Use IPFS (***TO DO IN OTHER HOMEWORKS***)  
+- Have your API return the JSON file. Use Node js for the API and ngrok npm package to share your local server by tunneling. ***DONE***
