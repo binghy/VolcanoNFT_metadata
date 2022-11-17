@@ -1,7 +1,5 @@
 # README
 
-# NOTES
-
 ***Mirrored from [Volcano NFT](https://github.com/binghy/volcanoNFT) to create a Node Express app and store VolcanoNFT image metadata***
 
 **Three options to store metadata (source: [freeCodeCamp](https://www.freecodecamp.org/news/how-to-make-an-nft/)):**  
