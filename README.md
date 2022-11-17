@@ -7,7 +7,9 @@
 - Use IPFS (**TO DO**)  
 - Have your API return the JSON file. Use Node js for the API and ngrok npm package to share your local server by tunneling. **DONE**
 
-**Advertisement**: To retrieve the json file where the metadata are stored, ngrok must be runned (eventually on request).
+**Advertisement**: To retrieve the json file where the metadata are stored, ngrok must be runned (eventually on request). A random URL is dynamically created everty time the app is running. Custom domains are available only by submitting a commercial plan.  
+- ngrok user guide and commands: [npm ngrok](https://www.npmjs.com/package/ngrok)  
+- for alternatives check this article [ngrok Step-by-Step Guide](https://www.sitepoint.com/use-ngrok-test-local-site/)  
 The json file retrieved shows the following values (associated to VolcanoNFT):  
 {  
 "name":"Volcano NFT metadata #1",  
