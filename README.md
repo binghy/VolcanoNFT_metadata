@@ -11,4 +11,8 @@
 
 **Advertisement**: To retrieve the json file where the metadata are stored, ngrok must be runned (eventually on request).
 The json file retrieved shows the following values (associated to VolcanoNFT):
-{"name":"Volcano NFT metadata #1","description":"Sample metadata API","image":"https://volcano-nft.onrender.com/1.png"}
+{  
+"name":"Volcano NFT metadata #1",  
+"description":"Sample metadata API",  
+"image":"https://volcano-nft.onrender.com/1.png"  
+}
