@@ -10,7 +10,7 @@
 - Have your API return the JSON file. Use Node js for the API and ngrok npm package to share your local server by tunneling. **DONE**
 
 **Advertisement**: To retrieve the json file where the metadata are stored, ngrok must be runned (eventually on request).
-The json file retrieved shows the following values (associated to VolcanoNFT):
+The json file retrieved shows the following values (associated to VolcanoNFT):  
 {  
 "name":"Volcano NFT metadata #1",  
 "description":"Sample metadata API",  
