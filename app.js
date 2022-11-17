@@ -2,7 +2,7 @@ var path = require('path');
 var express = require('express');
 const ngrok = require('ngrok');
 const { HOST } = require('./src/constants')
-const NGROK_TOKEN = "2HfTotdvCQWcwlBvs6ScL2bH6nT_5W9UNA6Q3MZYDB7FTjarj";
+const NGROK_TOKEN = "your_auth_token";
 const metadata = require('./src/metadata');
 
 const PORT = 3000;
